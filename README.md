@@ -1,2 +1,4 @@
-# SP1NLP-SMS-Classification
-This is my first project in NLP
+# Mini Projects
+easy and simple projects 
+
+1.SMS Classification
